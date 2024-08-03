@@ -69,7 +69,7 @@
     </style>
     <body>
         
-        <H3> Faduma Ahmed Mohamed</H3>
+        <H3> Salman Abdullahi Ali </H3>
         <H3> ID: 002</H3>
        
         <hr>
@@ -123,4 +123,4 @@
 <td> A+</td>
 <td> CAAFIMAAD</td>
 <tr>
-# Banadirschool.com-2
+
