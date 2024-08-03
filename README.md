@@ -70,7 +70,7 @@
     <body>
         
         <H3> Faduma Ahmed Mohamed</H3>
-        <H3> ID: 0059</H3>
+        <H3> ID: 002</H3>
        
         <hr>
         <table>
@@ -83,15 +83,15 @@
 
             </tr>
             <td> First Aid</td>
-            <td> 88</td>
-            <td> B+</td>
+            <td> 63</td>
+            <td> D</td>
             <td> CAAFIMAAD</td>
             <tr>
 
            
         </tr>
         <td> CDC</td>
-        <td> 62</td>
+        <td> 60</td>
         <td> D</td>
         <td> CAAFIMAAD</td>
         <tr>
@@ -99,21 +99,21 @@
        
     </tr>
     <td> ANATOMY</td>
-    <td> 85</td>
-    <td> B+</td>
+    <td> 73</td>
+    <td> C</td>
     <td> CAAFIMAAD</td>
     <tr>
 
 </tr>
 <td> PHYSIOLOGY</td>
-<td> 95</td>
-<td> A+</td>
+<td> 80</td>
+<td> B</td>
 <td> CAAFIMAAD</td>
 <tr>
 </tr>
 <td> PHARMACOLOGY</td>
-<td> 96</td>
-<td> A+</td>
+<td> 9</td>
+<td> A</td>
 <td> CAAFIMAAD</td>
 <tr>
 
